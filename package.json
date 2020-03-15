@@ -1,6 +1,6 @@
 {
   "name": "@DougAnderson444/ipld-graph-builder",
-  "version": "1.3.8",
+  "version": "1.3.9",
   "description": "a merkle trie implemention that if focused on being generic and fast",
   "leadMaintainer": "mjbecze <mjbecze@gmail.com>",
   "main": "index.js",
